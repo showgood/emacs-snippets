@@ -1,6 +1,6 @@
 # -*- mode: snippet -*-
 # name: ipython block
-# key: iipy 
+# key: <ip
 # --
 
 #+BEGIN_SRC ipython :session :exports both :results raw drawer

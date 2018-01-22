@@ -1,5 +1,5 @@
 # -*- mode: snippet -*-
-# name: TODO item
-# key: todo
+# name: * ☛ TODO ${1:`(get-kill-ring)`}
+# key: td
 # --
-TODO ${1:task description}
+* ☛ TODO ${1:`(get-kill-ring)`}
